@@ -33,7 +33,8 @@ Each step has a **build** prompt and a **check** prompt. The check runs in a fre
 ## Rules
 
 - Write in plain English. The user is learning and isn't a programmer.
-- Never send email to real people. Lead addresses use `@example.com`, links use a `.example` domain (`https://gulahmed.example/winter`), and sends go only to `@resend.dev` test addresses or the user's own `MY_EMAIL`. A PreToolUse hook enforces this from Step 10.
+- Never send email to real people. Lead addresses use `@example.com`, and links use a `.example` domain (`https://gulahmed.example/winter`).
+- Sending through Resend (the `resend` server in `.mcp.json`) is allowed only to Resend's test addresses, which end in `@resend.dev`, and to the user's own email address (`MY_EMAIL`). Never send to anyone in `leads/leads.csv` or any other address. A guard (a PreToolUse hook, added in Step 10) will enforce this and block any other address.
 - Gul Ahmed is a real company. Don't present drafts as official Gul Ahmed mail, and don't publish them.
 - Don't state prices, discounts, free shipping or refund promises the brief doesn't support. Shipping is a flat PKR 249, and there are no cash refunds.
 - Ask before deleting anything.
