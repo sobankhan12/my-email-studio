@@ -2,9 +2,20 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## What this repo is
+## What this studio is for
 
-An email marketing studio built step by step for the "Email Studio Lab" course (CCAR-F exam prep). The studio plans and writes email campaigns for a small business. The full course, with every build and check prompt and a progress table, is in `assignment.md`. Read the relevant step there before doing course work.
+Planning and writing email campaigns for a small business. It's built step by step for the "Email Studio Lab" course (CCAR-F exam prep).
+
+## Folders
+
+- `brand/`: how the brand sounds (the voice guide, `voice.md`).
+- `leads/`: made-up practice customers to send campaigns to, plus rules for that folder.
+- `campaigns/`: one folder per campaign, holding its plan and its emails.
+- `notes/`: research and working notes, such as skill choices and the brand brief.
+
+## The course
+
+The full course, with every build and check prompt and a progress table, is in `assignment.md`. Read the relevant step there before doing course work.
 
 The brand is **Gul Ahmed's winter collection** ("Charm of Winter 2026"), used as a practice exercise in place of the course's sample Kettlebird Tea brand. Research is in `notes/gul-ahmed-brief.md`. The swap table at the top of `assignment.md` maps the course's Kettlebird wording (names, folder paths, lead groups, link, footer) to Gul Ahmed. Apply it whenever a pasted prompt still says Kettlebird or The Steep Club.
 

@@ -11,7 +11,7 @@ You will set up an email marketing studio and run it with Claude Code. Claude pl
 | Step | Title | Build | Check |
 | --- | --- | --- | --- |
 | 1 | Look before you build | [x] | [ ] |
-| 2 | Set up your studio | [ ] | [ ] |
+| 2 | Set up your studio | [x] | [ ] |
 | 3 | Your brand voice | [ ] | [ ] |
 | 4 | Plan the campaign | [ ] | [ ] |
 | 5 | Practice leads | [ ] | [ ] |
