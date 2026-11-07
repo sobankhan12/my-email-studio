@@ -27,7 +27,8 @@ Language: English mixed naturally with Urdu and Roman Urdu. Keep it easy to read
 ## 4. Claims we must never make
 
 - **"Free delivery" or "free shipping".** Shipping in Pakistan is a flat PKR 249.
-- **"Full refund" or "money back".** There are no cash refunds, only exchanges within 30 days.
+- **"Full refund" or "money back".** There are no cash refunds, only exchanges within 30 days. Whenever an email mentions exchanges, give the full conditions: tell us within 3 days of it arriving, and keep it unused with its tags. Pickup is free.
+- **Delivery promises we can't keep**, like "wear it this week" or "arrives tomorrow". Orders take up to 2 days to prepare, then 3 to 5 business days to arrive.
 - **Prices or "% off" that haven't been checked** on the live site the day the email goes out.
 - **Fake urgency**, like "only 2 left" or "sale ends tonight", when it isn't true.
 - **Health or comfort promises**, like "keeps you warm in any weather" or "100% pure Pashmina", unless the product page says so.

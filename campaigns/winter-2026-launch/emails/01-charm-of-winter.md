@@ -12,7 +12,7 @@ This year is all about **sardiyon ka rang**: deep, warm colours, soft prints and
 - **Karandi:** a rich, textured weave with a graceful fall.
 - **Pashmina:** soft and elegant, for the evenings that matter.
 
-Choose unstitched fabric and stitch it your way, or pick a ready-to-wear piece and wear it this week. Either way, it's a naya andaaz for winter.
+Choose unstitched fabric and stitch it your way, or pick a ready-to-wear piece that arrives stitched and ready. Either way, it's a naya andaaz for winter.
 
 [View the Collection](https://gulahmed.example/winter)
 
