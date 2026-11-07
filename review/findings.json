@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/winter-2026-launch/groups/ready-to-wear/emails/01-charm-of-winter.md",
+      "line": 11,
+      "severity": "medium",
+      "problem": "Says the Khaddar range comes 'already stitched'. The brief lists Khaddar mainly under women's unstitched, and the ready-to-wear page was never checked, so this product claim isn't supported. Line 15 also offers unstitched fabric, so the email contradicts itself.",
+      "fix": "Use wording the brief supports, e.g. 'our biggest winter range, in printed and embroidered designs', and leave the stitched/unstitched choice to line 15. Or check the ready-to-wear page first."
+    },
+    {
+      "file": "campaigns/winter-2026-launch/groups/ready-to-wear/emails/04-winter-look.md",
+      "line": 10,
+      "severity": "medium",
+      "problem": "'Embroidered Karandi, stitched and ready' says Karandi comes ready-to-wear. Nothing in the brief confirms that. The same claim appears in groups/ready-to-wear/emails/02-fabric-stories.md line 10 ('As a ready-to-wear piece...').",
+      "fix": "Check the ready-to-wear winter page in a browser. If Karandi isn't sold stitched, go back to the main email's wording ('Embroidered Karandi for dinners and family gatherings') in both files."
+    },
+    {
+      "file": "campaigns/winter-2026-launch/emails/01-charm-of-winter.md",
+      "line": 1,
+      "severity": "medium",
+      "problem": "This main email has uncommitted changes (new subject, new line 6). The three group copies still have the old subject 'Charm of Winter 2026 is here' and old opening, so the per-group versions no longer match the email they were made from.",
+      "fix": "Decide which version is final. Then commit the main email and re-run the personalize skill, or undo the edit."
+    },
+    {
+      "file": "campaigns/winter-2026-launch/emails/01-charm-of-winter.md",
+      "line": 2,
+      "severity": "low",
+      "problem": "Subject and preview both say 'find your sardiyon ka rang'. The preview repeats the subject instead of adding something new.",
+      "fix": "Change the preview, e.g. 'Khaddar, Karandi and Pashmina in deep winter colours, live now.' (under 90 characters)."
+    },
+    {
+      "file": "campaigns/winter-2026-launch/groups/ready-to-wear/emails/02-fabric-stories.md",
+      "line": 16,
+      "severity": "low",
+      "problem": "The ready-to-wear group gets the tip to stitch early before tailors get busy, and the preview (line 2) promises 'why stitching early gives you sukoon'. These readers buy pieces that come already stitched, so the main message misses them.",
+      "fix": "Rewrite the tip and preview for this group, e.g. ready-to-wear means no tailor queue before the winter gatherings."
+    },
+    {
+      "file": "campaigns/winter-2026-launch/groups/unstitched-lovers/emails/04-winter-look.md",
+      "line": 2,
+      "severity": "low",
+      "problem": "The preview leads with 'ready-to-wear looks' for the unstitched-lovers group, but the body is written around their tailor.",
+      "fix": "Change the preview for this group, e.g. 'Our favourite winter fabrics to take to your tailor, plus cash on delivery.'"
+    }
+  ]
+}
