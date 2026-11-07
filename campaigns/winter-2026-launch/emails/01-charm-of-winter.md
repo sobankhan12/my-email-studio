@@ -1,4 +1,4 @@
-Subject: Charm of Winter 2026 is here
+Subject: Find your sardiyon ka rang in new fabric
 Preview: Khaddar, Karandi and Pashmina, chosen to help you find your sardiyon ka rang.
 
 Assalam-o-Alaikum {{first_name}},
