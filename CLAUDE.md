@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Planning and writing email campaigns for a small business. It's built step by step for the "Email Studio Lab" course (CCAR-F exam prep).
 
+## Brand voice
+
+@brand/voice.md
+
 ## Folders
 
 - `brand/`: how the brand sounds (the voice guide, `voice.md`).
