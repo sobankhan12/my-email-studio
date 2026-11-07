@@ -14,7 +14,7 @@ You will set up an email marketing studio and run it with Claude Code. Claude pl
 | 2 | Set up your studio | [x] | [ ] |
 | 3 | Your brand voice | [x] | [ ] |
 | 4 | Plan the campaign | [x] | [ ] |
-| 5 | Practice leads | [ ] | [ ] |
+| 5 | Practice leads | [x] | [ ] |
 | 6 | Email rule and sequence | [ ] | [ ] |
 | 7 | Fresh-eyes review | [ ] | [ ] |
 | 8 | Your own skill: personalize | [ ] | [ ] |
