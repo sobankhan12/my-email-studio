@@ -6,7 +6,7 @@ Practice campaign for the Email Studio Lab. Emails go to made-up `@example.com` 
 
 - **Campaign name:** Sardiyon Ka Rang: Charm of Winter 2026
 - **Summary:** a four-week email series that introduces our mailing list to the Charm of Winter 2026 collection and helps each reader find the winter look that fits them.
-- **Main goal:** **300 mailing-list members place a winter order between Monday 7 December 2026 and Sunday 3 January 2027.**
+- **Main goal:** **100 mailing-list members place a winter order between Monday 7 December 2026 and Sunday 3 January 2027.** Stretch target: 150.
 - **Other goals:**
   - Learn which of the three groups responds best, to shape the next campaign.
   - Keep unsubscribes low by sending one useful email a week, not a flood.
@@ -80,7 +80,7 @@ All four emails go out on Mondays (dates checked with a calendar command). Each 
 
 | Metric | Target | How it's tracked |
 | --- | --- | --- |
-| **Winter orders from the mailing list** (main) | **300 by Sunday 3 January 2027** | Orders that came through the campaign link |
+| **Winter orders from the mailing list** (main) | **100 by Sunday 3 January 2027** (stretch: 150) | Orders that came through the campaign link |
 | Open rate | 35% or more | Email platform reports |
 | Click rate | 4% or more | Clicks on the one link in each email |
 | Orders per group | Compare the three groups | Separate link tag per group |
@@ -98,7 +98,7 @@ All four emails go out on Mondays (dates checked with a calendar command). Each 
 
 | Risk | What could happen | What we do about it |
 | --- | --- | --- |
-| The goal is high | 300 orders from 2,000 people is a 15% order rate, which is ambitious for email | Watch week 1 results and adjust emails 2–4 toward the group responding best |
+| The goal is off | 100 orders from 2,000 people is a 5% order rate across four emails. A warm list may do better or worse | Check week 1 results. If we're on track, aim for the 150 stretch; if not, steer emails 2–4 toward the group responding best |
 | Wrong promises | An email states a price, offer or delivery promise the site doesn't support | Every email is checked against `brand/voice.md` section 4 before it goes out |
 | Tailoring time | Unstitched buyers order too late to stitch before gatherings | Email 02 suggests stitching early, and email 04 leans on ready-to-wear |
 | Too many emails | Readers tune out or unsubscribe | Keep to one email a week, each with a clear reason to open |
@@ -109,4 +109,4 @@ All four emails go out on Mondays (dates checked with a calendar command). Each 
 2. Build the practice leads list with the three groups (Step 5).
 3. Review every email in a fresh session against `brand/voice.md` (Step 7).
 4. Make one version of each email per group (Step 8).
-5. **Your decisions:** confirm the campaign name, and decide whether the 300-order goal stays or becomes a stretch target.
+5. **Your decision:** confirm the campaign name.

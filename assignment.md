@@ -12,8 +12,8 @@ You will set up an email marketing studio and run it with Claude Code. Claude pl
 | --- | --- | --- | --- |
 | 1 | Look before you build | [x] | [ ] |
 | 2 | Set up your studio | [x] | [ ] |
-| 3 | Your brand voice | [ ] | [ ] |
-| 4 | Plan the campaign | [ ] | [ ] |
+| 3 | Your brand voice | [x] | [ ] |
+| 4 | Plan the campaign | [x] | [ ] |
 | 5 | Practice leads | [ ] | [ ] |
 | 6 | Email rule and sequence | [ ] | [ ] |
 | 7 | Fresh-eyes review | [ ] | [ ] |
@@ -43,7 +43,7 @@ When you paste a prompt below, swap these words first:
 | `https://kettlebird.example/steep-club` | `https://gulahmed.example/winter` |
 | footer "joined the Kettlebird Tea waitlist" | "joined the Gul Ahmed mailing list" |
 | "detox" claim (Steps 3 and 13 tests) | "free delivery" or "100% refund" claim |
-| Step 4 goal: 300 subscriptions in the first month | 300 mailing-list members place a winter order in the first month |
+| Step 4 goal: 300 subscriptions in the first month | 100 mailing-list members place a winter order in the first month (stretch: 150) |
 | Step 15: tea sampler reviews | reviews of last winter's Khaddar and Karandi suits |
 
 ## Before you start
